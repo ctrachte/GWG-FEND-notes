@@ -1,5 +1,5 @@
 # XHR Usage Review
-##There are a number of steps you need to take to send an HTTP request asynchronously with JavaScript.
+## There are a number of steps you need to take to send an HTTP request asynchronously with JavaScript.
 
 To Send An Async Request (AJAX)
 1. create an XHR object with the XMLHttpRequest constructor function
